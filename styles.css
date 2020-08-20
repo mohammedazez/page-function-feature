@@ -1,0 +1,246 @@
+.pertama {
+  position: absolute;
+  width: 360px;
+  height: 51px;
+  left: 152px;
+  top: 112px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 20px;
+  /* or 154% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 1.08333px;
+  text-transform: uppercase;
+
+  color: #999999;
+}
+
+.kedua {
+  position: absolute;
+  width: 341px;
+  height: 156px;
+  left: 150px;
+  top: 175px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  /* or 133% */
+
+  letter-spacing: -1px;
+
+  color: #000000;
+}
+
+.ketiga {
+  position: absolute;
+  width: 362px;
+  height: 32px;
+  left: 210px;
+  top: 386px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 32px;
+  /* identical to box height, or 160% */
+
+  color: #000000;
+}
+
+.text-dua {
+  position: absolute;
+  width: 362px;
+  height: 32px;
+  left: 210px;
+  top: 558px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 32px;
+  /* identical to box height, or 160% */
+
+  color: #000000;
+}
+
+.paragraf-dua {
+  position: absolute;
+  width: 362px;
+  height: 68px;
+  left: 210px;
+  top: 597px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  /* or 175% */
+
+  color: #7a7a7a;
+}
+
+.icon-dua {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 150px;
+  top: 563px;
+}
+
+.text-ketiga {
+  position: absolute;
+  width: 362px;
+  height: 32px;
+  left: 210px;
+  top: 730px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 32px;
+  /* identical to box height, or 160% */
+
+  color: #000000;
+}
+
+.paragraf-ketiga {
+  position: absolute;
+  width: 362px;
+  height: 68px;
+  left: 210px;
+  top: 769px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  /* or 175% */
+
+  color: #7a7a7a;
+}
+
+.icon-ketiga {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 150px;
+  top: 732px;
+}
+
+.text-keempat {
+  position: absolute;
+  width: 362px;
+  height: 32px;
+  left: 210px;
+  top: 902px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 32px;
+  /* identical to box height, or 160% */
+
+  color: #000000;
+}
+
+.paragraf-keempat {
+  position: absolute;
+  width: 362px;
+  height: 68px;
+  left: 210px;
+  top: 941px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  /* or 175% */
+
+  color: #7a7a7a;
+}
+
+.icon-keempat {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 150px;
+  top: 901px;
+}
+
+.keempat {
+  position: absolute;
+  width: 347px;
+  height: 68px;
+  left: 210px;
+  top: 425px;
+
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  /* or 175% */
+
+  color: #7a7a7a;
+}
+
+.gambar-satu {
+  position: absolute;
+  width: 262px;
+  height: 354px;
+  left: 250px;
+  top: 76px;
+  border-radius: 6px;
+}
+
+.gambar-dua {
+  position: absolute;
+  width: 262px;
+  height: 262px;
+  left: 250px;
+  top: 460px;
+  border-radius: 6px;
+}
+
+.gambar-tiga {
+  position: absolute;
+  width: 262px;
+  height: 262px;
+  left: 60px;
+  top: 136px;
+  background: url(Image.png);
+  border-radius: 6px;
+}
+
+.gambar-empat {
+  position: absolute;
+  width: 262px;
+  height: 354px;
+  left: 60px;
+  top: 428px;
+  background: url(Image.png);
+  border-radius: 6px;
+}
+
+.icon-satu {
+  position: absolute;
+  width: 32px;
+  height: 28px;
+  left: 149.5px;
+  top: 394px;
+}
